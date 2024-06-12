@@ -8,6 +8,7 @@ function handleEditClick() {
     setIsEditing(editing => !editing);
 }
 
+//test
 function handleChange(event) {
 setPlayerName(event.target.value);
 }
